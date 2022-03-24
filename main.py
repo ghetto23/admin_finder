@@ -39,8 +39,8 @@ def boom():
                        $$$$$$$$$$$$$     $$$$$$$
                        -------------------------
                            Admin Panel Finder
-                           Coded by ghetto23
-                          github.com/ghetto23
+                          Coded by CaptainPrice
+                      github.com/suyusevmeyenbalina
                        -------------------------
  ''')
 
