@@ -39,8 +39,8 @@ def boom():
                        $$$$$$$$$$$$$     $$$$$$$
                        -------------------------
                            Admin Panel Finder
-                          Coded by CaptainPrice
-                      github.com/suyusevmeyenbalina
+                           Coded by 41ntn0l13
+                          github.com/41ntn0l13
                        -------------------------
  ''')
 
